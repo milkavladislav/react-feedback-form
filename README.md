@@ -2,9 +2,9 @@
 
 This repo is a test case for [Zenbit](https://zenbit.tech/)
 
-Deploy in Netlify [link](https://app.netlify.com/)
+Deploy in Netlify [link](https://react-feedback-form.netlify.app/)
 
-Design [link](https://react-feedback-form.netlify.app/)
+Design [link](https://www.figma.com/file/J8yTqV85FherEoHLkFyZgt/Test-Case)
 
 ## Available Scripts
 

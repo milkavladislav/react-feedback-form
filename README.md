@@ -4,7 +4,7 @@ This repo is a test case for [Zenbit](https://zenbit.tech/)
 
 Deploy in Netlify [link](https://app.netlify.com/)
 
-Design [link](https://www.figma.com/file/J8yTqV85FherEoHLkFyZgt/Test-Case)
+Design [link](https://react-feedback-form.netlify.app/)
 
 ## Available Scripts
 
